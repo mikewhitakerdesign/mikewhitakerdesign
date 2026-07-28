@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlwhitaker
+- 👋 Hi, I’m @mikewhitakerdesign
 - 👀 I’m interested in seeing how it all connects
 - 🌱 I’m currently learning React, Typescript, Storybook
 - 💞️ I’m looking to collaborate on ...
