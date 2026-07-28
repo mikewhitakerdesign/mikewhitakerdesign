@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @mikewhitakerdesign
-- 👀 I’m interested in seeing how it all connects
-- 🌱 I’m currently learning React, Typescript, Storybook
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Mike.
 
-<!---
-mlwhitaker/mlwhitaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Principal designer. Utility player. Solving messy problems with good people. Always learning.
+
+## Currently
+
+  • AI-assisted product development
+
+  • Design systems
+
+  • React, TypeScript & Storybook
+
+  • Shipping ideas
+
+## Find me
+
+  Portfolio → mikewhitaker.design
+
+  LinkedIn → linkedin.com/in/mikewhitaker
+
+  Email → mike@mikewhitaker.design
