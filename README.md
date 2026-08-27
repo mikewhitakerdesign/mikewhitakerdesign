@@ -2,13 +2,8 @@
 
 ## Currently
 
-  • AI-assisted product development
-
-  • Design systems
-
-  • React, TypeScript & Storybook
-
-  • Shipping ideas
+  1. Midwest Mountain Runners(TM)
+  2. ProperCopper(TM) - Copper Conscious meal planning and tracking app
 
 ## Find me
 
