@@ -1,7 +1,5 @@
 # Hi, I'm Mike.
 
-Principal designer. Utility player. Solving messy problems with good people. Always learning.
-
 ## Currently
 
   • AI-assisted product development
