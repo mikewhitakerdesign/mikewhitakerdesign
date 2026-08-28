@@ -2,8 +2,8 @@
 
 ## Currently
 
-  1. Chicago Mountain Runners(TM) - local running club app and public site
-  2. ProperCopper(TM) - Copper Conscious meal planning and tracking app and public site
+  1. Chicago Mountain Runners(TM) - local running club app (w/ public site)
+  2. ProperCopper(TM) - ai-assisted copper conscious meal planning and tracking app (w/ public site)
   3. Mike Whitaker Design(TM) - personal brand and portfolio site
 
 ## Find me
